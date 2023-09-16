@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1651187430 source:c:\homeworks\hw10_ew\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"Date.h"
+	"Account.h"
+	"RegularAccount.h"
+	"PremiumAccount.h"
+
+1650471931 source:c:\homeworks\hw10_ew\date.cpp
+	<iostream>
+	"Date.h"
+
+1651188102 source:c:\homeworks\hw10_ew\account.cpp
+	<iostream>
+	<iomanip>
+	"Date.h"
+	"Account.h"
+
+1651188102 source:c:\homeworks\hw10_ew\premiumaccount.cpp
+	<iostream>
+	"Date.h"
+	"Account.h"
+	"PremiumAccount.h"
+
+1651187894 source:c:\homeworks\hw10_ew\regularaccount.cpp
+	<iostream>
+	"Date.h"
+	"Account.h"
+	"RegularAccount.h"
+
+1651177034 c:\homeworks\hw10_ew\date.h
+
+1651177528 c:\homeworks\hw10_ew\account.h
+
+1650903772 c:\homeworks\hw10_ew\regularaccount.h
+
+1651177612 c:\homeworks\hw10_ew\premiumaccount.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649693402 source:c:\homeworks\hw8_ew\date.cpp
+	<iostream>
+	"Date.h"
+
+1649689890 c:\homeworks\hw8_ew\date.h
+	<string>
+
+1649693420 source:c:\homeworks\hw8_ew\main.cpp
+	<iostream>
+	"Date.h"
+

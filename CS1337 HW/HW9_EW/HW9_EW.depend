@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1650316233 source:c:\homeworks\hw9_ew\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Date.h"
+	"Account.h"
+
+1650319112 c:\homeworks\hw9_ew\date.h
+	<string>
+
+1649864328 source:c:\homeworks\hw9_ew\date.cpp
+	<iostream>
+	"Date.h"
+
+1649874071 c:\homeworks\hw9_ew\account.h
+	"Date.h"
+
+1649874178 source:c:\homeworks\hw9_ew\account.cpp
+	<iostream>
+	"Account.h"
+

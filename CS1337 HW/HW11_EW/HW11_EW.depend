@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1651513751 source:c:\homeworks\hw11_ew\main.cpp
+	<iostream>
+	"BasicShape.h"
+	"Rectangle.h"
+	"Circle.h"
+
+1651513261 source:c:\homeworks\hw11_ew\circle.cpp
+	<iostream>
+	<iomanip>
+	"Circle.h"
+
+1651513261 source:c:\homeworks\hw11_ew\rectangle.cpp
+	<iostream>
+	<iomanip>
+	"Rectangle.h"
+
+1651506350 c:\homeworks\hw11_ew\rectangle.h
+	"BasicShape.h"
+
+1651506315 c:\homeworks\hw11_ew\basicshape.h
+	<string>
+
+1651506390 c:\homeworks\hw11_ew\circle.h
+	"BasicShape.h"
+

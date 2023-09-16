@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649189046 source:c:\homeworks\hw7_ew\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"Account.h"
+
+1649189242 source:c:\homeworks\hw7_ew\account.cpp
+	<iostream>
+	"Account.h"
+
+1649181383 c:\homeworks\hw7_ew\account.h
+
