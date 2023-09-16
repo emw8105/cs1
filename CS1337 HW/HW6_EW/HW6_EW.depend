@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1648367990 source:c:\homeworks\hw6_ew\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	"Product.h"
+
+1648368217 source:c:\homeworks\hw6_ew\product.cpp
+	<iostream>
+	"Product.h"
+
+1648147787 c:\homeworks\hw6_ew\product.h
+

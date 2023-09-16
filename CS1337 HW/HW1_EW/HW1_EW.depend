@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644527636 source:c:\homeworks\hw1_ew\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+

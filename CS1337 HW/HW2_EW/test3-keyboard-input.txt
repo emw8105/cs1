@@ -1,0 +1,8 @@
+productData3.txt
+1
+A008
+10
+A006
+27
+0
+3
