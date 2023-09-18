@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1646245804 source:c:\homeworks\3_2_separate\main.cpp
+	<iostream>
+
+1646674843 source:c:\homeworks\cs1337 exos\3_2_separate\main.cpp
+	<iostream>
+	"Student.h"
+
+1646675036 c:\homeworks\cs1337 exos\3_2_separate\student.h
+
+1646246780 source:c:\homeworks\cs1337 exos\3_2_separate\student.cpp
+	<iostream>
+	"Student.h"
+

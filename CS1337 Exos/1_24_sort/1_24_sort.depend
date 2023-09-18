@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643048887 source:c:\homeworks\1_24_sort\main.cpp
+	<iostream>
+	<iomanip>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643050875 source:c:\homeworks\1_24_binsearch\main.cpp
+	<iostream>
+	<iomanip>
+
